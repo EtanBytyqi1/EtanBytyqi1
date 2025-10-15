@@ -1,4 +1,4 @@
-# Welcome!
+![Welcome](https://i.pinimg.com/originals/2c/92/4f/2c924f5738ab7e80986cc8ff0290714a.gif)
 
 Hi there! 👋
 
@@ -24,3 +24,9 @@ I love creating websites and learning new things every day. Always looking forwa
 ---
 
 Feel free to reach out or check out my projects!
+
+
+![Divider](https://i.pinimg.com/originals/42/0f/3f/420f3f94553aa54f69ab48dab4e69832.gif)
+
+
+<img src="https://skillicons.dev/icons?i=linux,figma,html,css,git,github,vscode,ai,photoshop,capcut" alt="Tech Stack Icons" />
