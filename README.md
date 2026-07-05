@@ -2,11 +2,11 @@
 
 Hi there! 👋
 
-I'm a 13-year-old coder currently learning and growing at **J-Coders Academy**. I'm passionate about web development and enjoy building cool things with code.
+I'm a 14-year-old coder currently learning and growing at **J-Coders Academy**. I'm passionate about web development and enjoy building cool things with code.
 
 ## 🧑‍💻 About Me
 
-- **Age:** 13
+- **Age:** 14
 - **Academy:** J-Coders Academy
 - **Languages I speak:**  
   - Albanian (fluent)
